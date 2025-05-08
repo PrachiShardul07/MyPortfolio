@@ -5,7 +5,7 @@ const Education = () => (
     <div className="max-w-4xl mx-auto text-center">
       <h2 className="text-3xl font-bold mb-8">Education</h2>
       <ul className="space-y-4">
-        <li>Saraswati College of Engineering, Mumbai – B.Tech Data Science (Pursuing, 7/10 CGPA)</li>
+        <li>Saraswati College of Engineering, Mumbai – BE Data Science (Pursuing, 7/10 CGPA)</li>
         <li>Shantiniketan Polytechnic, Mumbai – Diploma in Computer Engineering (78%)</li>
         <li>N.K.E.S High School, Mumbai – SSC Board (73%)</li>
       </ul>
